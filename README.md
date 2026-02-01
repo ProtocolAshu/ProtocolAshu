@@ -102,7 +102,7 @@ skills = {
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Image_Processing_Project_-IIT-KGP-">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="Image Processing"/>
+        <img src="https://techsparks.co.in/wp-content/uploads/2020/12/image-processing-1024x591.jpg" width="400" alt="Image Processing"/>
         <br><br>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Image_Processing_Project_-IIT-KGP-&theme=tokyonight&hide_border=true" alt="Image Processing" />
       </a>
@@ -111,7 +111,7 @@ skills = {
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Operating_system_-IIT_KGP_25-">
-        <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="400" alt="Operating Systems"/>
+        <img src="https://i0.wp.com/techcaps.ie/wp-content/uploads/2024/08/Operating-System.jpeg" width="400" alt="Operating Systems"/>
         <br><br>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Operating_system_-IIT_KGP_25-&theme=tokyonight&hide_border=true" alt="Operating Systems" />
       </a>
