@@ -208,7 +208,8 @@ skills = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProtocolAshu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+  <img src="https://ghchart.rshah.org/ProtocolAshu" alt="GitHub chart">
+
 </div>
 
 ---
