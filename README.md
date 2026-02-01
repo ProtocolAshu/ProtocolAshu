@@ -89,7 +89,17 @@ skills = {
 
 <div align="center">
 
-[![IR Assignments](https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=IR_Assignments_IITKGP&theme=tokyonight&hide_border=true)](https://github.com/ProtocolAshu/IR_Assignments_IITKGP)
+[![IR Assignments](https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=IR_Assignments_IITKGP&theme=tokyonight&hide_border=true)](https://github.com/ProtocolAshu/IR_Assignments_IITKGP)  
+[![Image Processing](https://media.giphy.com/media/xT9IglgBqfXFeOyx1e/giphy.gif)](https://github.com/ProtocolAshu/Image_Processing_Project_-IIT-KGP-)  
+[![Operating Systems](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)](https://github.com/ProtocolAshu/Operating_system_-IIT_KGP_25-)  
+[![Machine Learning Bio](https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif)](https://github.com/ProtocolAshu/APPLICATION-OF-MACHINE-LEARNING-IN-BIOLOGICAL-SYSTEMS-ES60011-kgp-)  
+[![Computer Networks](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)](https://github.com/ProtocolAshu/Computer_network_-IIT_KGP-)  
+[![ML Projects](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)](https://github.com/ProtocolAshu/Machine_Learning-IIT_KGP_25-)  
+[![BTP Project](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)](https://github.com/ProtocolAshu/BTP_1_project_ML_in_Bio_Data)  
+[![NGO Management](https://media.giphy.com/media/26FPp3kr1VjPzNVUI/giphy.gif)](https://github.com/ProtocolAshu/NGO_Managment_System_Project)  
+[![Multimedia DBMS](https://media.giphy.com/media/xT0GqeSlGSRQut4v6g/giphy.gif)](https://github.com/ProtocolAshu/Multimedia_DBMS_Project_-PAASD_GPM-)  
+[![Encryptix](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)](https://github.com/ProtocolAshu/Encryptix_Project)
+
 
 </div>
 
