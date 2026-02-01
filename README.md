@@ -20,10 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=IIT%20Kharagpur%20CS%20Dual%20Degree&width=800&height=120" />
-</p>
+
 
 
 
@@ -228,7 +225,6 @@ skills = {
 - Database Management Systems
 - Information Retrieval
 - Scalable Data Mining
-- Software Engineering
 - Systems Programming
 - Compiler Design
 - Cryptography & Network Security
