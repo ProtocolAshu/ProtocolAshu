@@ -18,7 +18,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&animation=fadeIn" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
 
@@ -203,7 +204,8 @@ skills = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProtocolAshu&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
