@@ -1,15 +1,16 @@
 <div align="center">
-```
+
+<pre>
    ___    _   _ ___ __  __ _____ ____  _   _ 
   / _ \  | \ | |_ _|  \/  | ____/ ___|| | | |
  | | | | |  \| || || |\/| |  _| \___ \| |_| |
  | |\| | | |\  || || |  | | |___ ___) |  _  |
  | | | | |_| \_|___|_|  |_|_____|____/|_| |_|
-```
+</pre>
 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=A177F7&center=true&vCenter=true&width=900&lines=Aspiring+Machine+Learning+Engineer;Software+Development+Engineer;IIT+Kharagpur+CS+Dual+Degree;ML+%26+Systems+Enthusiast" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 </div>
 
@@ -22,16 +23,21 @@
 🎓 **B.Tech + M.Tech Dual Degree** in Computer Science  
 📍 **IIT Kharagpur** | Class of 2027
 
-I'm an aspiring **Machine Learning Engineer** and **Software Development Engineer** passionate about building intelligent systems and scalable software solutions. My journey spans from optimizing neural networks to crafting robust data pipelines and backend architectures.
+Computer Science Dual Degree student at IIT Kharagpur with hands-on experience in software engineering and machine learning. Strong background in building scalable backend systems, RESTful APIs, and data-driven ML models, including neural networks and tree-based classifiers. Solid problem-solving foundation with exposure to systems programming, data pipelines, and core computer science fundamentals.
+
 
 💡 **What I Do:**
 - 🤖 Build ML models (Random Forest, XGBoost, Neural Networks) for real-world applications
 - 🔧 Develop full-stack applications with modern frameworks
 - 📊 Analyze complex datasets and derive actionable insights
 - ⚡ Optimize systems for performance and scalability
-- 🏆 Compete in algorithmic challenges and hackathons
 
-🌟 **National-level ranker** in mathematics and engineering competitions with a strong analytical foundation!
+## 🎯 Current Focus
+
+- 📌 Advanced Machine Learning & Representation Learning  
+- 📌 Systems + ML intersection (Scalable Data Mining, IR)  
+- 📌 Preparing for **SDE and ML Engineer roles**  
+- 📌 Research-oriented projects under IIT Kharagpur curriculum
 
 > *"The science of today is the technology of tomorrow." - Edward Teller*
 
@@ -73,16 +79,16 @@ I'm an aspiring **Machine Learning Engineer** and **Software Development Enginee
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📚 Core Competencies
-```python
+<pre>
 skills = {
     "Machine Learning": ["Random Forest", "XGBoost", "Neural Networks", "Model Optimization"],
     "Software Engineering": ["Full-Stack Dev", "APIs", "Microservices", "System Design"],
     "Data Engineering": ["Data Pipelines", "ETL", "Data Analysis", "Visualization"],
+    "Programming Languages": ["C", "C++", "Python", "JavaScript", "SQL"],
     "Systems Programming": ["Concurrency", "Network Protocols", "Pthreads", "Socket API"],
     "Computer Science": ["DSA", "Algorithms", "DBMS", "Computer Networks", "OS"]
 }
-```
-
+</pre>
 ---
 
 ## 🎯 Featured Projects
@@ -97,11 +103,13 @@ skills = {
       <a href="https://github.com/ProtocolAshu/IR_Assignments_IITKGP">
         <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*JTvMfiXgaO4LGLI3Lj2dsw.jpeg" width="400" alt="Information Retrieval"/>
       </a>
+       <p><b>Information Retrieval </b></p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Image_Processing_Project_-IIT-KGP-">
         <img src="https://techsparks.co.in/wp-content/uploads/2020/12/image-processing-1024x591.jpg" width="400" alt="Image Processing"/>
       </a>
+       <p><b>Image Processing </b></p>
     </td>
   </tr>
 
@@ -110,11 +118,13 @@ skills = {
       <a href="https://github.com/ProtocolAshu/Operating_system_-IIT_KGP_25-">
         <img src="https://i0.wp.com/techcaps.ie/wp-content/uploads/2024/08/Operating-System.jpeg" width="400" alt="Operating Systems"/>
       </a>
+       <p><b>Operating System </b></p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/APPLICATION-OF-MACHINE-LEARNING-IN-BIOLOGICAL-SYSTEMS-ES60011-kgp-">
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="ML in Biology"/>
       </a>
+       <p><b>Application of ML in Biological System </b></p>
     </td>
   </tr>
 
@@ -123,11 +133,13 @@ skills = {
       <a href="https://github.com/ProtocolAshu/Computer_network_-IIT_KGP-">
         <img src="https://computerguidehub.com/wp-content/uploads/computer-network-devices-connected-to-internet.webp" width="400" alt="Computer Networks"/>
       </a>
+       <p><b>Computer Network </b></p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Machine_Learning-IIT_KGP_25-">
         <img src="https://ik.imagekit.io/edtechdigit/usdsi/content/images/articles/unlock-the-power-of-machine-learning-in-data-science.jpg" width="400" alt="Machine Learning"/>
       </a>
+       <p><b>Machine Learning </b></p>
     </td>
   </tr>
 
@@ -136,11 +148,13 @@ skills = {
       <a href="https://github.com/ProtocolAshu/BTP_1_project_ML_in_Bio_Data">
         <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="400" alt="BTP Research"/>
       </a>
+       <p><b>B.Tech Project 1 </b></p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/NGO_Managment_System_Project">
         <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1709850338/catalog/1380503217504342016/my2jt2ru2z8qqfpygkyk.webp" width="400" alt="NGO Management"/>
       </a>
+       <p><b>NGO Management System Project </b></p>
     </td>
   </tr>
 
@@ -149,21 +163,29 @@ skills = {
       <a href="https://github.com/ProtocolAshu/Multimedia_DBMS_Project_-PAASD_GPM-">
         <img src="https://image.slidesharecdn.com/multimediaproject-110513101916-phpapp01/75/Multimedia-project-1-2048.jpg" width="400" alt="Multimedia DBMS"/>
       </a>
+       <p><b>Multimedia Project (DBMS)</b></p>
     </td>
-    <<td width="50%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Sclable_data_mining">
         <img src="https://www.csm.tech/admin/storage/app/uploads/TwitterImage1744370642.jpeg" width="400" alt="Sclable Data Mining"/>
       </a>
+       <p><b>Scalable Data Mining </b></p>
     </td>
   </tr>
 </table>
 
 </div>
 
+## 🧠 Why These Projects Matter
+
+- These projects reflect **core CS foundations** (OS, CN, DBMS, ML)
+- Strong focus on **ML in real-world + biological data**
+- Balanced profile: **Systems + ML + Full-Stack**
+- Built under **IIT Kharagpur academic rigor**
 
 ### 🔥 Project Highlights
 
-- 🩺 **Healthcare Diagnostics ML Model**: Developed XGBoost classifier for disease prediction with optimized hyperparameters
+- 🩺 **Healthcare Diagnostics ML Model**: Developed XGBoost classifier achieving ~92% accuracy after hyperparameter tuning
 - 📞 **Customer Churn Prediction**: Built Random Forest ensemble model for telecom churn analysis
 - 🧠 **Neural Network Optimizer**: Implemented custom optimization techniques for deep learning models
 - 🌐 **Full-Stack Web Applications**: Created RESTful APIs using Node.js/Django with MongoDB/SQLite backends
@@ -175,10 +197,10 @@ skills = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProtocolAshu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProtocolAshu&theme=tokyonight&hide_border=true" height="170"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProtocolAshu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
