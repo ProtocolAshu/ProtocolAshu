@@ -96,15 +96,12 @@ skills = {
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/IR_Assignments_IITKGP">
         <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*JTvMfiXgaO4LGLI3Lj2dsw.jpeg" width="400" alt="Information Retrieval"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=IR_Assignments_IITKGP&theme=tokyonight&hide_border=true" alt="IR Assignments" />
+        
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Image_Processing_Project_-IIT-KGP-">
         <img src="https://techsparks.co.in/wp-content/uploads/2020/12/image-processing-1024x591.jpg" width="400" alt="Image Processing"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Image_Processing_Project_-IIT-KGP-&theme=tokyonight&hide_border=true" alt="Image Processing" />
       </a>
     </td>
   </tr>
@@ -112,70 +109,52 @@ skills = {
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Operating_system_-IIT_KGP_25-">
         <img src="https://i0.wp.com/techcaps.ie/wp-content/uploads/2024/08/Operating-System.jpeg" width="400" alt="Operating Systems"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Operating_system_-IIT_KGP_25-&theme=tokyonight&hide_border=true" alt="Operating Systems" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/APPLICATION-OF-MACHINE-LEARNING-IN-BIOLOGICAL-SYSTEMS-ES60011-kgp-">
         <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="ML in Biology"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=APPLICATION-OF-MACHINE-LEARNING-IN-BIOLOGICAL-SYSTEMS-ES60011-kgp-&theme=tokyonight&hide_border=true" alt="ML in Biological Systems" />
+      
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Computer_network_-IIT_KGP-">
-        <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="400" alt="Computer Networks"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Computer_network_-IIT_KGP-&theme=tokyonight&hide_border=true" alt="Computer Networks" />
+        <img src="https://computerguidehub.com/wp-content/uploads/computer-network-devices-connected-to-internet.webp" width="400" alt="Computer Networks"/>
+        
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Machine_Learning-IIT_KGP_25-">
-        <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Machine Learning"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Machine_Learning-IIT_KGP_25-&theme=tokyonight&hide_border=true" alt="Machine Learning" />
+        <img src="https://ik.imagekit.io/edtechdigit/usdsi/content/images/articles/unlock-the-power-of-machine-learning-in-data-science.jpg" width="400" alt="Machine Learning"/>
+        
       </a>
     </td>
   </tr>
-</table>
 
-### 🚀 Major Projects
-
-<table>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/BTP_1_project_ML_in_Bio_Data">
         <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="400" alt="BTP Research"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=BTP_1_project_ML_in_Bio_Data&theme=radical&hide_border=true" alt="BTP Project" />
+        
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/NGO_Managment_System_Project">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="NGO Management"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=NGO_Managment_System_Project&theme=radical&hide_border=true" alt="NGO Management System" />
+        <img src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1709850338/catalog/1380503217504342016/my2jt2ru2z8qqfpygkyk.webp" width="400" alt="NGO Management"/>
+       
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/Multimedia_DBMS_Project_-PAASD_GPM-">
-        <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="400" alt="Database Systems"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Multimedia_DBMS_Project_-PAASD_GPM-&theme=radical&hide_border=true" alt="Multimedia DBMS" />
+        <img src="https://image.slidesharecdn.com/multimediaproject-110513101916-phpapp01/75/Multimedia-project-1-2048.jpg" width="400" alt="Database Systems"/>
+        
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ProtocolAshu/Encryptix_Project">
-        <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Encryption & Security"/>
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProtocolAshu&repo=Encryptix_Project&theme=radical&hide_border=true" alt="Encryptix" />
-      </a>
-    </td>
+    
   </tr>
 </table>
 
