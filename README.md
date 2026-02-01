@@ -176,7 +176,7 @@ skills = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProtocolAshu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  
 </div>
 
 <div align="center">
@@ -199,8 +199,6 @@ skills = {
 - High-Performance Computer Architecture
 
 ### 🎖️ Accomplishments
-- 🥇 National-level ranker in Mathematics Olympiads
-- 🏅 National-level ranker in Engineering Entrance Examinations
 - 💻 Active contributor in competitive programming platforms
 - 🚀 Multiple projects in ML, Systems Programming, and Web Development
 
