@@ -150,7 +150,11 @@ skills = {
         <img src="https://image.slidesharecdn.com/multimediaproject-110513101916-phpapp01/75/Multimedia-project-1-2048.jpg" width="400" alt="Multimedia DBMS"/>
       </a>
     </td>
-    <td width="50%"></td>
+    <<td width="50%" align="center">
+      <a href="https://github.com/ProtocolAshu/Sclable_data_mining">
+        <img src="https://www.csm.tech/admin/storage/app/uploads/TwitterImage1744370642.jpeg" width="400" alt="Sclable Data Mining"/>
+      </a>
+    </td>
   </tr>
 </table>
 
