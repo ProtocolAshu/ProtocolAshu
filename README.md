@@ -7,7 +7,7 @@
  | | | | |_| \_|___|_|  |_|_____|____/|_| |_|
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Animesh+Kumar+👋;Aspiring+ML+Engineer+%26+SDE;IIT+Kharagpur+CS+Student" alt="Typing SVG" />
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
