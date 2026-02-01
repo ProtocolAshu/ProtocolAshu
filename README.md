@@ -19,11 +19,20 @@
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=IIT%20Kharagpur%20CS%20Dual%20Degree&width=800&height=120" />
+</p>
+
+
+
 
 🎓 **B.Tech + M.Tech Dual Degree** in Computer Science  
 📍 **IIT Kharagpur** | Class of 2027
 
 Computer Science Dual Degree student at IIT Kharagpur with hands-on experience in software engineering and machine learning. Strong background in building scalable backend systems, RESTful APIs, and data-driven ML models, including neural networks and tree-based classifiers. Solid problem-solving foundation with exposure to systems programming, data pipelines, and core computer science fundamentals.
+
 
 
 💡 **What I Do:**
@@ -214,11 +223,24 @@ skills = {
 - Algorithms & Data Structures
 - Machine Learning
 - Software Engineering
+- Operating Systems
 - Computer Networks
 - Database Management Systems
-- Computer Vision
+- Information Retrieval
+- Scalable Data Mining
+- Software Engineering
+- Systems Programming
+- Compiler Design
 - Cryptography & Network Security
 - High-Performance Computer Architecture
+- Advanced Digital Image Processing and Computer Vision
+
+### 📘 Mathematical & Theoretical Foundations
+- Probability & Statistics
+- Linear Algebra
+- Discrete Mathematics
+- Advanced Calculus 
+
 
 ### 🎖️ Accomplishments
 - 💻 Active contributor in competitive programming platforms
