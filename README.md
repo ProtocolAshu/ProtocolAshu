@@ -204,7 +204,7 @@ skills = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&v=1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProtocolAshu&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
