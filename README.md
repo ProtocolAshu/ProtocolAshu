@@ -27,7 +27,7 @@
 
 
 🎓 **B.Tech + M.Tech Dual Degree** in Computer Science  
-📍 **IIT Kharagpur** | Class of 2027
+📍 **IIT Kharagpur** | 2027
 
 Computer Science Dual Degree student at IIT Kharagpur with hands-on experience in software engineering and machine learning. Strong background in building scalable backend systems, RESTful APIs, and data-driven ML models, including neural networks and tree-based classifiers. Solid problem-solving foundation with exposure to systems programming, data pipelines, and core computer science fundamentals.
 
@@ -204,10 +204,8 @@ skills = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&v=1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProtocolAshu&theme=tokyonight&hide_border=true" height="170"/>
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProtocolAshu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
