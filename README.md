@@ -204,8 +204,7 @@ skills = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ProtocolAshu&v=1show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProtocolAshu&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
@@ -267,7 +266,7 @@ skills = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/ProtocolAshu/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ProtocolAshu&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ---
 
