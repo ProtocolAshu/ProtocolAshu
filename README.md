@@ -153,7 +153,7 @@ skills = {
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/ProtocolAshu/BTP_1_project_ML_in_Bio_Data">
-        <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="400" alt="BTP Research"/>
+        <img src="https://www.collegeprojectsolution.com/img/btech.jpg" width="400" alt="BTP Research"/>
       </a>
        <p><b>B.Tech Project 1 </b></p>
     </td>
